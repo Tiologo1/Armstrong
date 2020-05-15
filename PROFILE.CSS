@@ -1,0 +1,39 @@
+html {
+    background: url(../images/Jay\ Armstrong\ photo1.jpg);
+    background-repeat: no-repeat;
+    background-color: rgb(197, 158, 158);
+    background-size: cover;
+    background-position: center;
+    border-radius: 100px;
+}
+h1 {
+    color: cornsilk;
+}
+a {
+    color: cornsilk;
+}
+fieldset {
+    color: rgb(207, 219, 201);
+    margin: 10px;
+    border-radius: 500px;
+    background-color: rgba(22, 66, 26, 0.651);
+}
+legend {
+    background-color: rgb(38, 182, 182);
+    border-radius: solid  100px;
+    margin: 20px;
+}
+#submitbtn {
+    color: rgb(229, 233, 240);
+    border: rgb(60, 25, 107);
+    border-radius: 30px;
+    background-color: rgb(2, 24, 24);
+}
+textarea {
+    color: deepskyblue;
+    background-color: rgba(22, 66, 26, 0.651);
+}
+::placeholder {
+
+    color: rgb(18, 238, 238);
+}
